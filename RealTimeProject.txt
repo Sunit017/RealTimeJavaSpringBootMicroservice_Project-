@@ -1,0 +1,11 @@
+
+
+
+WaterFall Model - Requirement -> design -> development -> test -> deploy -> maintain 
+
+Agile - Scrum and canban framework , what happen in agile is if BA team finish the task they can move to differnt task 
+
+Jira - it is a tool 
+
+
+cloud config - to maintain configuration properties properly - in azure we have keyVault 
